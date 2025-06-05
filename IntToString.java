@@ -1,5 +1,6 @@
 //You are given an n integer , you have to convert it into a string.
-//Please complete the partially completed code in the editor. If your code successfully converts n into a string s the code will print "Good job". Otherwise it will print "Wrong answer".
+//Please complete the partially completed code in the editor. If your code successfully converts n into a string s the code will print "Good job". 
+//Otherwise it will print "Wrong answer".
 
 import java.util.*;
 
